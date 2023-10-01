@@ -1,0 +1,22 @@
+#crosshair {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 12px;
+    height: 1px;
+    background-color: rgba(165, 165, 165, 0.5);
+  }
+  
+#crosshair::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(90deg);
+    width: 12px;
+    height: 1px;
+    background-color: rgba(165, 165, 165, 0.25);
+  }
+
+/* ------------------------------- */
