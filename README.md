@@ -5,4 +5,4 @@ El juego de escape room tematizado en Harry Potter te lleva a través de una emo
 El objetivo del juego es completar una serie de pruebas que te llevarán a través de la habitación que habrá que superar para encontrar la salida.
 
 - :page_with_curl: [Documentación](Documentacion/Documentación.pdf)
-- 	:clapper: [Vídeo trailer](Documentacion/escape_room.mp4)
+- 	:clapper: [Vídeo trailer](https://drive.google.com/file/d/1QD-uwX1TLcQTBg-5g7V3fBDASrzk2PrO/view?usp=drive_link)
